@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\Trabajo_Práctico_1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\hp\source\repos\Trabajo_Práctico_1\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\hp\source\repos\Trabajo_Práctico_1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\hp\source\repos\Trabajo_Práctico_1\Ejercicio1\obj\Debug\Ejercicio1.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Trabajo_Práctico_1\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Trabajo_Práctico_1\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\hp\source\repos\Trabajo_Práctico_1\Ejercicio1\obj\Debug\Ejercicio1.pdb

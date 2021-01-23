@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\Trabajo_Práctico_2\EjercicioB2\bin\Debug\EjercicioB2.exe.config
+C:\Users\hp\source\repos\Trabajo_Práctico_2\EjercicioB2\bin\Debug\EjercicioB2.exe
+C:\Users\hp\source\repos\Trabajo_Práctico_2\EjercicioB2\bin\Debug\EjercicioB2.pdb
+C:\Users\hp\source\repos\Trabajo_Práctico_2\EjercicioB2\obj\Debug\EjercicioB2.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Trabajo_Práctico_2\EjercicioB2\obj\Debug\EjercicioB2.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Trabajo_Práctico_2\EjercicioB2\obj\Debug\EjercicioB2.exe
+C:\Users\hp\source\repos\Trabajo_Práctico_2\EjercicioB2\obj\Debug\EjercicioB2.pdb

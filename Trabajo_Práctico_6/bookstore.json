@@ -1,0 +1,28 @@
+[
+  {
+    "id": 3,
+    "apellido": "Gomez",
+    "nombre": "Juan",
+    "dni": 37615223,
+    "libros": [
+      {
+        "nombre": "El gran robo",
+        "anioPublicacion": 1993,
+        "editorial": "Flores"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "apellido": "Perez",
+    "nombre": "Carlos",
+    "dni": 40221488,
+    "libros": [
+      {
+        "nombre": "La granja",
+        "anioPublicacion": 1982,
+        "editorial": "Doris"
+      }
+    ]
+  }
+]

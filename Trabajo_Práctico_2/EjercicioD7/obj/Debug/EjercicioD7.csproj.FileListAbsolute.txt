@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\Trabajo_Práctico_2\EjercicioD7\bin\Debug\EjercicioD7.exe.config
+C:\Users\hp\source\repos\Trabajo_Práctico_2\EjercicioD7\bin\Debug\EjercicioD7.exe
+C:\Users\hp\source\repos\Trabajo_Práctico_2\EjercicioD7\bin\Debug\EjercicioD7.pdb
+C:\Users\hp\source\repos\Trabajo_Práctico_2\EjercicioD7\obj\Debug\EjercicioD7.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Trabajo_Práctico_2\EjercicioD7\obj\Debug\EjercicioD7.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Trabajo_Práctico_2\EjercicioD7\obj\Debug\EjercicioD7.exe
+C:\Users\hp\source\repos\Trabajo_Práctico_2\EjercicioD7\obj\Debug\EjercicioD7.pdb

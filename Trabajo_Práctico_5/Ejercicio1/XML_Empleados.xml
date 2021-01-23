@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--XML Empleados-->
+<Empleados>
+  <Listado>
+    <Empleado>
+      <Id>4884</Id>
+      <NombreCompleto>Rodriguez, Victor</NombreCompleto>
+      <Cuil>20103180326</Cuil>
+      <Sector Denominacion="Gerencia Recursos Humanos" Id="137" ValorSemaforo="130.13" ColorSemaforo="VERDE" />
+      <CupoAsignado>1837.15</CupoAsignado>
+      <CupoConsumido>658.02</CupoConsumido>
+    </Empleado>
+    <Empleado>
+      <Id>1225</Id>
+      <NombreCompleto>Sanchez, Juan Ignacio</NombreCompleto>
+      <Cuil>20271265817</Cuil>
+      <Sector Denominacion="Gerencia Operativa" Id="44" ValorSemaforo="130.13" ColorSemaforo="ROJO" />
+      <CupoAsignado>750.87</CupoAsignado>
+      <CupoConsumido>625.46</CupoConsumido>
+    </Empleado>
+  </Listado>
+  <SubSectores>5</SubSectores>
+  <TotalCupoAsignadoSector>4217.21</TotalCupoAsignadoSector>
+  <TotalCupoConsumidoSector>1405.88</TotalCupoConsumidoSector>
+  <ValorDial>33.34</ValorDial>
+</Empleados>

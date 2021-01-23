@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\Trabajo_Práctico9_LINQ\Trabajo_Práctico9_LINQ\bin\Debug\Trabajo_Práctico9_LINQ.exe.config
+C:\Users\hp\source\repos\Trabajo_Práctico9_LINQ\Trabajo_Práctico9_LINQ\bin\Debug\Trabajo_Práctico9_LINQ.exe
+C:\Users\hp\source\repos\Trabajo_Práctico9_LINQ\Trabajo_Práctico9_LINQ\bin\Debug\Trabajo_Práctico9_LINQ.pdb
+C:\Users\hp\source\repos\Trabajo_Práctico9_LINQ\Trabajo_Práctico9_LINQ\obj\Debug\Trabajo_Práctico9_LINQ.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Trabajo_Práctico9_LINQ\Trabajo_Práctico9_LINQ\obj\Debug\Trabajo_Práctico9_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Trabajo_Práctico9_LINQ\Trabajo_Práctico9_LINQ\obj\Debug\Trabajo_Práctico9_LINQ.exe
+C:\Users\hp\source\repos\Trabajo_Práctico9_LINQ\Trabajo_Práctico9_LINQ\obj\Debug\Trabajo_Práctico9_LINQ.pdb
